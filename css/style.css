@@ -1229,7 +1229,7 @@ button {
 
 .hero-slider .prevArrow:hover,
 .hero-slider .nextArrow:hover {
-  background: rgba(232, 68, 68, 0.5);
+  background: rgba(56, 185, 235, 0.5);
 }
 
 .hero-slider .prevArrow {
@@ -1305,6 +1305,7 @@ button {
   text-align: center;
   transition: .3s ease;
   color: #303032;
+
 }
 
 .hero-slider .slick-dots li a i {
@@ -2621,5 +2622,3 @@ ul.tag-list li a:hover {
 .back-to-top:focus {
   outline: 0;
 }
-
-/*# sourceMappingURL=maps/style.css.map */
